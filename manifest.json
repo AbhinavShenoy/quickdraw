@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Copy",
+  "version": "1.0",
+  "description": "Quickly copy frequently used values",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["storage", "clipboardWrite"]
+}
